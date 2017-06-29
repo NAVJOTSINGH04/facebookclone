@@ -36,6 +36,7 @@ footer {}
 }
 #menu {
 	background-color: pink;
+
 }
 #sidebar {
 	background-color: yellow;
@@ -130,4 +131,19 @@ padding: 0px;
   display: inline;
   margin: 0px;
   margin-bottom: 20px;
+}
+body { padding-top: 70px; }
+.black{
+
+color: black!important;
+
+}
+#shift{
+	position: relative;
+	left: -10px;
+}
+.time{
+	position: relative;
+	left: 10px;
+	color: #A9A9A9
 }
